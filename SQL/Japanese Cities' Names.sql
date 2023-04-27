@@ -1,0 +1,1 @@
+select NAME from CITY AS aity where COUNTRYCODE='JPN';

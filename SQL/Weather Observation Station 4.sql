@@ -1,0 +1,1 @@
+select(select COUNT (CITY) from STATION) - (select COUNT(distinct CITY) from STATION);

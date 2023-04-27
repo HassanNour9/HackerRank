@@ -1,0 +1,1 @@
+select distinct CITY from STATION where CITY not like '[aeiou]%' and CITY not like '%[aeiou]';
